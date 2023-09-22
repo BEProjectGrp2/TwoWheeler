@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134089578944",
+    "project_id": "two-wheeler-ai",
+    "storage_bucket": "two-wheeler-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134089578944:android:c309445ccfbefcebb3d025",
+        "android_client_info": {
+          "package_name": "com.mycompany.twowheelerai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDml8-Sv5JtlZwgKrB5RtdOZowj1ymM_rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
